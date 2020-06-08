@@ -3,6 +3,8 @@ Performing preliminary analysis on kickstarter data to uncover trends related to
 
 The file Kickstarter Analysis contains the preliminary analysis on the kickstarter data as well as some exploration of excel functions like pivot tables, vlookups, central tendency, and visualizations. 
 
+The file module solutions contains the data for the conclusions below. 
+
 ### challenge
 
 After the initial analysis I looked at how two variable seperated effected the outcome of the kickstarter.
